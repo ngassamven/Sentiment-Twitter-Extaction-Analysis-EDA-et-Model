@@ -4,7 +4,7 @@ Ce projet vise à analyser des tweets pour identifier le sentiment exprimé (pos
 Pour configurer le projet, assure-toi d'avoir les bibliothèques suivantes :
 bash
 Copier le code
-pip install numpy pandas matplotlib seaborn plotly nltk wordcloud
+pip install numpy pandas matplotlib seaborn plotly nltk wordcloud 
 De plus, vérifie que ces bibliothèques sont disponibles dans ton environnement :
 
 - nltk pour le prétraitement des textes.
